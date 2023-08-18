@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904846710684",
+    "project_id": "taskcreator-5d2c2",
+    "storage_bucket": "taskcreator-5d2c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904846710684:android:f015f6f53f856163e79a59",
+        "android_client_info": {
+          "package_name": "com.example.task_creator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904846710684-llp7ch67b5pi84kmrunn0a575e2vtlb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvM79nHYFd1z160qncG9osR-6oz9aYSA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904846710684-llp7ch67b5pi84kmrunn0a575e2vtlb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
